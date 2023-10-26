@@ -1,0 +1,120 @@
+
+0001
+Cualquiera de los dos está bien
+Either is fine
+
+0002 
+Disfruta de tus vacaciones
+Enjoy your holidays
+
+0003
+Te trataré
+I'll treat you
+
+0004
+Olvídalo
+Forget it
+
+0005
+No es gran cosa
+No big deal
+
+0006
+Vamos a almorzar
+Let's have lunch
+
+0007
+Te necesito
+I need you
+
+0008
+La escuela comienza mañana
+School begins tomorrow
+
+0009
+Me gusta el helado
+I like ice-cream
+
+0010
+Eres muy inteligente
+You're so smart
+
+0011
+Te echaré de menos
+I'll miss you
+
+0012
+Apuremonos
+Let's hurry up
+
+0013
+Nadie lo sabe
+No one knows
+
+0014
+Estás sobrecargado de trabajo
+You're overworked
+
+0015
+No es mío
+It isn't mine
+
+0016
+¿A qué hora?
+What time?
+
+0017
+¡No puede ser!
+It can't be!
+
+0018
+¡Qué tiempo tan terrible!
+What terrible weather!
+
+0019
+Yo tambien
+So do I
+
+0020
+Estoy muy ocupado
+I'm too busy
+
+0021
+Eres el mejor
+You're the best
+
+0022
+Es un placer
+It's my pleasure
+
+0023
+No te arriesgues
+Don't take chances
+
+0024
+Se hizo rico
+He became rich
+
+0025
+Tu primero
+Yo go first
+
+0026
+No lo sé
+I don't know
+
+0027
+Lo que tu digas
+Whatever you say
+
+0028
+Ha sido de gran ayuda
+You've been very helpful
+
+0029
+Eso espero
+I hope so
+
+0030
+¡Qué emocionante!
+How exciting!
