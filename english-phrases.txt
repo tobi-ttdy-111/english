@@ -118,3 +118,44 @@ I hope so
 0030
 ¡Qué emocionante!
 How exciting!
+
+0031
+El conocimiento es poder
+Knowledge is power
+
+0032
+¡Eres un ángel!
+You're an angel!
+
+0033
+¿Cuál es tu problema?
+What's your trouble?
+
+0034
+Me gustan las verduras
+I like vegetables
+
+0035
+No es difícil
+It's not difficult
+
+0036
+Eso es interesante
+That's interesting
+
+0037
+Por favor, no murmures
+Please don't mumble
+
+0038
+Esa es su especialidad
+That's his specialty 
+
+0039
+Me temo que no
+I'm afraid not
+
+0040
+I dislike exercising
+No me gusta hacer ejercicio
+
