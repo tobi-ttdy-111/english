@@ -159,3 +159,44 @@ I'm afraid not
 I dislike exercising
 No me gusta hacer ejercicio
 
+0041
+Estoy agotado
+I'm exhausted
+
+0042
+Quédate ahí
+Sit tight 
+
+0043
+¿Quién está ausente?
+Who is absent?
+
+0044
+¡Basta ya!
+Cut it out!
+
+0045
+¿Porqué yo?
+¿Why me?
+
+0046
+Ya era hora
+It's about time
+
+0047
+Porfavor, no llores
+Please don't cry
+
+0048
+Eso no está bien
+That's not right
+
+0049
+¡Siganme!
+Follow me!
+
+0050
+Los lirios huelen dulce
+Lilies smell sweet
+
+
