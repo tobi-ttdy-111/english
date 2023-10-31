@@ -199,4 +199,43 @@ Follow me!
 Los lirios huelen dulce
 Lilies smell sweet
 
+0051
+Tienes razon 
+You are right 
+
+0052
+Lo prometo
+I promise
+
+0053
+Rara vez hago ejercicio
+I seldom exercise
+
+0054
+Go right ahead
+Adelante
+
+0055
+Please copy this
+Por favor, copie eso
+
+0056
+Apurate
+Hurry up
+
+0057
+Por supuesto que no 
+Certainly not
+
+0058
+Beware of imitations
+Cuidado con las imitaciones
+
+0059
+No está mal
+It's not bad
+
+0060
+You're wrong 
+Te equivocas
 
