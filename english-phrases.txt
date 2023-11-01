@@ -239,3 +239,42 @@ It's not bad
 You're wrong 
 Te equivocas
 
+0061
+Detesto el arroz
+I detest rice
+
+0062
+¡Brillante!
+Brilliant!
+
+0063
+Intentemos algo
+Let's try something
+
+0064
+Soy soltero
+I'm single
+
+0065
+Inténtalo de nuevo
+Try again
+
+0066
+Este es mi primo
+This is my cousin 
+
+0067
+Ya casi ha terminado
+It's almost over 
+
+0068
+Tengo sed
+I'm thirsty 
+
+0069
+Nuestro equipo perdió
+Our team lost 
+
+0070
+Exacto
+Exactly
