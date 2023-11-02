@@ -278,3 +278,43 @@ Our team lost 
 0070
 Exacto
 Exactly
+
+0071
+Soy libre
+I'm free
+
+0072
+Creme
+Believe me 
+
+0073
+Ya es media noche
+It's midnight already 
+
+0074
+Estas mintiendo 
+You're lying 
+
+0075
+Por favor responda
+Please respond
+
+0076
+Demasiado tarde
+Too late
+
+0077
+Pasaporte por favor
+Passport please
+
+0078
+Está de mal humor
+He is cranky 
+
+0079
+¿Qué?
+What?
+
+0080
+No paso nada 
+Nothing happened 
