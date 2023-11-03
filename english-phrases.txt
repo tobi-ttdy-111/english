@@ -317,4 +317,46 @@ What?
 
 0080
 No paso nada 
-Nothing happened 
+Nothing happened
+
+---
+
+0091
+Esta agua está esterilizada
+This water is sterilized
+
+0092
+Estoy completamente desacuerdo
+I disagree completely 
+
+0093
+Estoy seguro
+I'm sure 
+
+0094
+¿Cuál es tu trabajo?
+What 's your job?
+
+0095
+¿How many people?
+¿Cuántas personas?
+
+0096
+Que tiempo tan maravilloso
+What marvelous weather
+
+0097
+No fue nada 
+It was nothing 
+
+0098
+Estoy completamente de acuerdo 
+I agree entirely 
+
+0099
+Disculpe, señor
+Excuse me, Sir.
+
+0100
+That's a good approach 
+Es un buen enfoque 
