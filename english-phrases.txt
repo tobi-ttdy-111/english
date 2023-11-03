@@ -319,7 +319,45 @@ What?
 No paso nada 
 Nothing happened
 
----
+0081
+Llama a una ambulancia
+Call an ambulance 
+
+0082
+Después de ti 
+After you
+
+0083
+Esa es la manera
+That's the way 
+
+0084
+Por favor, arregla esto
+Please fix this
+
+0085
+¡Te quiero!
+I love you!
+
+0086
+Enseñar es aprender 
+Teaching is learning 
+
+0087
+¿Estas seguro?
+Are you sure?
+
+0088
+¿Estas contento?
+Are you happy?
+
+0089
+Te echo de menos
+I miss you
+
+0090
+¿Cómo de grande?
+How big?
 
 0091
 Esta agua está esterilizada
