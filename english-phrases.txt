@@ -398,3 +398,43 @@ Excuse me, Sir.
 0100
 That's a good approach 
 Es un buen enfoque 
+
+0101
+Nada me interesa
+Nothing interest me 
+
+0102
+Claro que sí
+It's sure is 
+
+0103
+Está enfadado
+He's angry 
+
+0104
+¡Lo has hecho!
+You've done it 
+
+0105
+Fue genial 
+It was great 
+
+0106
+Te gusta la fruta
+You like fruit 
+
+0107
+Lo intentaré
+I'll try 
+
+0108
+Apágalo
+Turn it off
+
+0109
+¿Porque no?
+Why not?
+
+0110
+Es un diccionario
+It's a dictionary 
