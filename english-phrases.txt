@@ -438,3 +438,44 @@ Why not?
 0110
 Es un diccionario
 It's a dictionary 
+
+0111
+Llovía mucho
+It rained heavily 
+
+0112
+Por eso 
+That's why
+
+0113
+Eso es mío
+That is mine 
+
+0114
+Siga derecho
+Go straight on 
+
+0115
+Estoy ocupado
+I'm busy 
+
+0116
+¡Sigue asi!
+Keep it up!
+
+0117
+Pescado por favor
+Fish, please
+
+0118
+I try
+Lo intento 
+
+0119
+Por favor, relájate
+Please relax 
+
+0120
+¿Esta casado?
+Are you married?
+
