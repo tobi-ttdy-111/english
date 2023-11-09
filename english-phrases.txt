@@ -479,3 +479,42 @@ Please relax
 ¿Esta casado?
 Are you married?
 
+0121
+¡Te ves muy bien!
+You're looking sharp!
+
+0122
+Por favor, perdoname
+Please forgive me
+
+0123
+Buenos días a todos
+Good morning everyone
+
+0124
+Me siento deprimido
+I feel depressed
+
+0125
+¡Vaya!
+Wow!
+
+0126
+No hay problema
+No problem
+
+0127
+Es una buena noticia
+That's great news
+
+0128
+¡Eso fue fantástico!
+That was fantastic!
+
+0129
+Está bien
+It's all right
+
+0130
+No me importa
+I don't care
