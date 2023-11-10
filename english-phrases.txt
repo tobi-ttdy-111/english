@@ -518,3 +518,43 @@ It's all right
 0130
 No me importa
 I don't care
+
+0131
+¡Me has asustado!
+You startled me!
+
+0132
+Es bueno
+It's good
+
+0133
+Se mas flexible
+Be more flexible
+
+0134
+Pasa
+Come on in
+
+0135
+Es desgarrador
+It's heartbreaking
+
+0136
+Las flores atraen a las abejas
+Flowers attract bees
+
+0137
+Como va el negocio?
+How's business going
+
+0138
+Justo ahi
+Right over there
+
+0139
+¿Desde cuándo?
+Since when?
+
+0140
+¡Es tan aburrido!
+It 's so boring!
