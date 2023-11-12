@@ -558,3 +558,43 @@ Since when?
 0140
 ¡Es tan aburrido!
 It 's so boring!
+
+0141
+Ver abajo
+See below
+
+0142
+Lo encontré
+I found it
+
+0143
+Lo deje abierto
+I left it unlocked
+
+0144
+¡Diviertete!
+Have fun!
+
+0145
+Deberías disculparte
+You should apologize
+
+0146
+Te envidio
+I envy you
+
+0147
+Eso es cierto
+That's true
+
+0148
+Somos elegidos
+Were're elected
+
+0149
+¿Que pasa?
+What 's up?
+
+0150
+Alemania limita con Francia
+Germany borders on France
