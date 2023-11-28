@@ -598,3 +598,103 @@ What 's up?
 0150
 Alemania limita con Francia
 Germany borders on France
+
+0151
+Me encantan los viajes
+I love trips
+
+0152
+Llegamos primero
+We arrived first
+
+0153
+Vengan conmigo
+Come with me 
+
+0154
+Se está haciendo tarde
+It's getting late
+
+0155
+Estás pálido
+You look pale 
+
+0156
+¿Dónde están los zapatos?
+Where're the shoes?
+
+0157
+¿Para qué?
+For what?
+
+0158
+Tengo curiosidad
+I am curious
+
+0159
+¡Tengan cuidado!
+Be careful!
+
+0160
+Yo gané
+I won 
+
+0161
+No funciona
+It doesn't work 
+
+0162
+Tome este asiento, por favor
+Take this seat, please
+
+0163
+Llámame cuando quieras
+Call me anytime
+
+0164
+¿Sabes nadar?
+Can you swim?
+
+0165
+¿Que pasaría?
+What would happen?
+
+0166
+Estoy completamente de acuerdo
+I agree completely
+
+0167
+Cambie de trabajo 
+I switched jobs
+
+0168
+¿Estñas bromeando?
+Are you kidding?
+
+0169
+Me temo que si 
+Afraid so 
+
+0170
+¡Es increíble!
+It 's incredible!
+
+0171
+Hace bastante frío
+It's pretty cold
+
+0172
+Soy vegetariana
+I'm a vegetarian
+
+0173
+¡Guarden sus fuerzas!
+Save your strength!
+
+0174
+¿Quién entrena al equipo?
+Who coaches the team?
+
+0175
+Eso es terrible
+That's terrible
